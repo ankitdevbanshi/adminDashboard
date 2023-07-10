@@ -31,9 +31,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "install-frontend": "cd vcard1 && npm install",
-    "build-frontend": "cd vcard1 && npm run build",
-    "start-frontend": "cd vcard1 && npm run start"
+    "install-frontend": "npm install",
+    "build-frontend": "npm run build",
+    "start-frontend": "npm run start"
   },
   "eslintConfig": {
     "extends": [
